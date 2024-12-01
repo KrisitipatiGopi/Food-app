@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  padding: 5px;
+  background-color: #f0f0f0;
+  height: 100vh;
+}
+a{
+  text-decoration: none;
+}
